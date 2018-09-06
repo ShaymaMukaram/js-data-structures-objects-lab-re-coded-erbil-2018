@@ -69,3 +69,4 @@ describe('drivers', function () {
       expect(driver['name']).to.equal(undefined);
     });
   });
+});
